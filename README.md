@@ -29,7 +29,7 @@ El proyecto fue implementado en **Databricks (Community Edition)** con la siguie
 
 El modelo fue diseñado a partir de las relaciones entre pacientes, servicios, personal y horarios:
 
-![Modelo ERD](https://github.com/usuario/repositorio/raw/main/images/ERD.png)
+![Modelo ERD](https://github.com/felipefernandezr-datascience/BigData/blob/main/images/ERD.png?raw=true)
 
 ---
 
